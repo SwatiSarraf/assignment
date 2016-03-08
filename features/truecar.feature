@@ -1,3 +1,4 @@
+#Setting up Gherkin file to test feature scenarios
 Feature: Configure a new vehicle online and get guaranteed, competitive price quotes
   from upto 3 verified dealers in zip area.
 
